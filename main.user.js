@@ -2,7 +2,8 @@
 // @name        twitter likes ratio
 // @namespace   szamanr
 // @description shows the ratio of likes to views for each twitter post on the page
-// @match       https://twitter.com/*
+// @include       https://twitter.com/*
+// @include       https://x.com/*
 // @grant       none
 // @version     0.2
 // @author      szamanr
